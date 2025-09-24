@@ -9,12 +9,14 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+AND gate using OR gates
+OR gate using AND gates
+XOR gate using AND gates
 
 ## How to test
 
-Explain how to use your project
+Just don't.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+DIP-switch, 3x LED or 1x 7seg
